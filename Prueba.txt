@@ -1,2 +1,0 @@
-
-Esta es una modificacion para probar como GIT funciona sobre un mismo archivo.
