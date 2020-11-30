@@ -1,1 +1,2 @@
-Archivo de prueba
+Archivo de prueba 123
+Esta es una modificacion para probar como GIT funciona sobre un mismo archivo.
